@@ -1,2 +1,2 @@
 # miniproject
-imageclassification using deep learning
+image classification using deep learning
