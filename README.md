@@ -1,6 +1,6 @@
 # miniproject
-#image classification using deep learning
-1. Overview of concepts (Brainstorming) Image Classification
+image classification using deep learning
+1. Overview of concepts  Image Classification
 2. Image loading (four different methods)
    (i)  Python Imaging Library
    (ii) Open CV
